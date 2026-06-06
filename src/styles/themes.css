@@ -1,0 +1,86 @@
+/* =============================================
+   THEME VARIABLES — Light & Dark Mode
+   ============================================= */
+
+:root,
+[data-theme='light'] {
+  --bg-primary: #F9FAFB;
+  --bg-secondary: #FFFFFF;
+  --bg-tertiary: #F3F4F6;
+  --bg-card: #FFFFFF;
+  --bg-card-hover: #F8FAFF;
+
+  --text-primary: #111827;
+  --text-secondary: #374151;
+  --text-muted: #6B7280;
+  --text-subtle: #9CA3AF;
+
+  --accent-primary: #4F46E5;
+  --accent-primary-hover: #4338CA;
+  --accent-secondary: #06B6D4;
+  --accent-secondary-hover: #0891B2;
+  --accent-purple: #8B5CF6;
+  --accent-green: #10B981;
+  --accent-amber: #F59E0B;
+
+  --border-color: #E5E7EB;
+  --border-subtle: #F3F4F6;
+  --border-focus: #4F46E5;
+
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+  --shadow-md: 0 4px 16px rgba(0,0,0,0.08), 0 2px 6px rgba(0,0,0,0.04);
+  --shadow-lg: 0 8px 32px rgba(0,0,0,0.1), 0 4px 12px rgba(0,0,0,0.06);
+  --shadow-xl: 0 20px 60px rgba(0,0,0,0.12), 0 8px 24px rgba(0,0,0,0.08);
+
+  --glow-primary: 0 0 24px rgba(79,70,229,0.2);
+  --glow-secondary: 0 0 24px rgba(6,182,212,0.2);
+
+  --navbar-bg: rgba(249,250,251,0.85);
+  --glass-bg: rgba(255,255,255,0.7);
+  --glass-border: rgba(255,255,255,0.4);
+
+  --gradient-primary: linear-gradient(135deg, #4F46E5 0%, #06B6D4 100%);
+  --gradient-hero: radial-gradient(ellipse at 60% 50%, rgba(79,70,229,0.08) 0%, rgba(6,182,212,0.05) 50%, transparent 70%);
+  --gradient-card: linear-gradient(145deg, #FFFFFF 0%, #F8FAFF 100%);
+}
+
+[data-theme='dark'] {
+  --bg-primary: #0A0F1C;
+  --bg-secondary: #0F1629;
+  --bg-tertiary: #111827;
+  --bg-card: #111827;
+  --bg-card-hover: #1a2234;
+
+  --text-primary: #F1F5F9;
+  --text-secondary: #CBD5E1;
+  --text-muted: #94A3B8;
+  --text-subtle: #64748B;
+
+  --accent-primary: #6366F1;
+  --accent-primary-hover: #818CF8;
+  --accent-secondary: #22D3EE;
+  --accent-secondary-hover: #67E8F9;
+  --accent-purple: #A78BFA;
+  --accent-green: #34D399;
+  --accent-amber: #FBBF24;
+
+  --border-color: #1E293B;
+  --border-subtle: #1a2234;
+  --border-focus: #6366F1;
+
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.3), 0 1px 2px rgba(0,0,0,0.2);
+  --shadow-md: 0 4px 16px rgba(0,0,0,0.4), 0 2px 6px rgba(0,0,0,0.2);
+  --shadow-lg: 0 8px 32px rgba(0,0,0,0.5), 0 4px 12px rgba(0,0,0,0.3);
+  --shadow-xl: 0 20px 60px rgba(0,0,0,0.6), 0 8px 24px rgba(0,0,0,0.4);
+
+  --glow-primary: 0 0 32px rgba(99,102,241,0.35);
+  --glow-secondary: 0 0 32px rgba(34,211,238,0.25);
+
+  --navbar-bg: rgba(10,15,28,0.85);
+  --glass-bg: rgba(17,24,39,0.7);
+  --glass-border: rgba(255,255,255,0.06);
+
+  --gradient-primary: linear-gradient(135deg, #6366F1 0%, #22D3EE 100%);
+  --gradient-hero: radial-gradient(ellipse at 60% 50%, rgba(99,102,241,0.15) 0%, rgba(34,211,238,0.08) 50%, transparent 70%);
+  --gradient-card: linear-gradient(145deg, #111827 0%, #1a2234 100%);
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "LLMs and Prompt Engineering",
+    "issuer": "DeepLearning.AI",
+    "category": "Generative AI",
+    "type": "certification",
+    "year": "2025",
+    "description": "Focused on large language models, prompt engineering techniques, and generative AI applications.",
+    "skills": ["LLMs", "Prompt Engineering", "Generative AI", "AI Applications"],
+    "badge": "🤖"
+  },
+  {
+    "id": 2,
+    "name": "ChatGPT Engineering for Developers",
+    "issuer": "DeepLearning.AI",
+    "category": "Generative AI",
+    "type": "certification",
+    "year": "2025",
+    "description": "Practical guide to building applications using ChatGPT APIs and prompt-based systems.",
+    "skills": ["ChatGPT API", "Prompt Engineering", "AI App Development"],
+    "badge": "💬"
+  },
+  {
+    "id": 3,
+    "name": "Machine Learning for Data Science",
+    "issuer": "IBM",
+    "category": "Machine Learning",
+    "type": "certification",
+    "year": "2024",
+    "description": "Hands-on training in machine learning lifecycle including data preprocessing, model training, and evaluation.",
+    "skills": ["Machine Learning", "Data Preprocessing", "Model Evaluation", "Python"],
+    "badge": "🧠"
+  },
+  {
+    "id": 4,
+    "name": "Artificial Intelligence Fundamentals",
+    "issuer": "Udacity",
+    "category": "AI Fundamentals",
+    "type": "certification",
+    "year": "2024",
+    "description": "Covers core AI concepts, ethical AI systems, and foundational machine learning principles.",
+    "skills": ["Artificial Intelligence", "Machine Learning Basics", "AI Ethics"],
+    "badge": "🎓"
+  },
+  {
+    "id": 5,
+    "name": "Data Analysis Fundamentals",
+    "issuer": "Udacity",
+    "category": "Data Science",
+    "type": "certification",
+    "year": "2024",
+    "description": "Introduces data wrangling, visualization, and basic statistical analysis techniques.",
+    "skills": ["Data Analysis", "Pandas", "Visualization", "Statistics"],
+    "badge": "📊"
+  },
+  {
+    "id": 6,
+    "name": "Machine Learning Engineering",
+    "issuer": "10 Academy",
+    "category": "Machine Learning Engineering",
+    "type": "training program",
+    "year": "2025",
+    "description": "Intensive program covering ML engineering, data pipelines, financial analysis, and MLOps practices.",
+    "skills": ["Machine Learning", "MLOps", "Data Engineering", "Model Deployment"],
+    "badge": "⚙️"
+  },
+  {
+    "id": 7,
+    "name": "Aspire Leaders Program",
+    "issuer": "Aspire Institute",
+    "category": "Leadership",
+    "type": "leadership program",
+    "year": "2025",
+    "description": "Leadership development program focused on social impact, communication, and personal growth.",
+    "skills": ["Leadership", "Communication", "Social Impact", "Teamwork"],
+    "badge": "🌟"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "role": "AI Engineer Intern",
+    "company": "Fluentian",
+    "location": "Remote",
+    "duration": "April 2026 – Present",
+    "type": "internship",
+    "current": true,
+    "description": "Working on AI-powered applications and generative AI systems, designing intelligent workflows for real-world AI product development.",
+    "responsibilities": [
+      "Develop AI-driven applications using LLMs and NLP techniques",
+      "Design intelligent workflows for real-world AI solutions",
+      "Collaborate with engineering teams on AI product development",
+      "Work on prompt engineering and AI automation systems"
+    ],
+    "technologies": ["Python", "LLMs", "NLP", "Generative AI", "Machine Learning"]
+  },
+  {
+    "id": 2,
+    "role": "Football Tracking Data Preparation Intern",
+    "company": "Addis Ababa University",
+    "location": "Addis Ababa, Ethiopia",
+    "duration": "December 2025 – Present",
+    "type": "research internship",
+    "current": true,
+    "description": "Preparing and structuring football tracking datasets for sports analytics research and movement prediction models.",
+    "responsibilities": [
+      "Cleaned and structured large-scale tracking datasets",
+      "Worked on spatiotemporal football data analysis",
+      "Supported movement prediction research",
+      "Collaborated with academic research teams"
+    ],
+    "technologies": ["Python", "Data Processing", "Pandas"]
+  },
+  {
+    "id": 3,
+    "role": "AI Engineer",
+    "company": "CodeCelix",
+    "location": "Remote",
+    "duration": "December 2025 – March 2026",
+    "type": "internship",
+    "current": false,
+    "description": "Developed AI/ML solutions and speech-to-text systems for real-world applications in a remote engineering team.",
+    "responsibilities": [
+      "Built and optimized machine learning models",
+      "Developed real-time Speech-to-Text (STT) systems",
+      "Performed data preprocessing and model training",
+      "Improved model performance through optimization techniques",
+      "Worked in remote AI engineering team environment"
+    ],
+    "technologies": ["Python", "PyTorch", "FastAPI", "Speech Recognition", "Machine Learning"]
+  },
+  {
+    "id": 4,
+    "role": "Machine Learning Intern",
+    "company": "Future Interns",
+    "location": "Remote",
+    "duration": "October 2025 – November 2025",
+    "type": "internship",
+    "current": false,
+    "description": "Worked on predictive machine learning systems and NLP chatbots, deploying AI solutions using Streamlit.",
+    "responsibilities": [
+      "Built sales forecasting models",
+      "Developed customer churn prediction systems",
+      "Created NLP-based chatbot systems",
+      "Deployed models using Streamlit",
+      "Worked on data-driven AI solutions"
+    ],
+    "technologies": ["Python", "XGBoost", "Prophet", "NLP", "Streamlit"]
+  },
+  {
+    "id": 5,
+    "role": "Data Science Intern",
+    "company": "INSA",
+    "companyFull": "Information Network Security Agency",
+    "location": "Addis Ababa, Ethiopia",
+    "duration": "June 2025 – September 2025",
+    "type": "internship",
+    "current": false,
+    "description": "Worked on NLP and computer vision solutions for security-related applications at Ethiopia's national cybersecurity agency.",
+    "responsibilities": [
+      "Developed computer vision models for object detection",
+      "Built Amharic Speech-to-Text systems",
+      "Applied NLP techniques for text analysis",
+      "Contributed to AI-based security projects",
+      "Performed data analysis for structured datasets"
+    ],
+    "technologies": ["Python", "OpenCV", "PyTorch", "NLP", "Computer Vision"]
+  }
+]

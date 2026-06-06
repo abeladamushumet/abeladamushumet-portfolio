@@ -1,0 +1,326 @@
+# ASK ABEL AI - KNOWLEDGE BASE
+
+========================================
+PERSONAL INFORMATION
+========================================
+
+Name: Abel Adamu Shumet
+
+Title:
+AI/ML Engineer & Data Scientist
+
+Location:
+Bahir Dar, Ethiopia
+
+Email:
+abeladamushumet@gmail.com
+
+Phone:
++251 963 437 349
+
+LinkedIn:
+linkedin.com/in/abeladamushumet
+
+GitHub:
+github.com/abeladamushumet
+
+Portfolio:
+Personal Portfolio Website
+
+Education:
+Bachelor of Science in Data Science
+Bahir Dar University
+2022 – 2026 (Expected)
+
+
+========================================
+PROFESSIONAL SUMMARY
+========================================
+
+Abel Adamu Shumet is an AI/ML Engineer and Data Scientist with hands-on experience in Machine Learning, Deep Learning, Natural Language Processing (NLP), Speech-to-Text (STT), Text-to-Speech (TTS), Computer Vision, and Generative AI systems.
+
+He has built end-to-end AI solutions covering data preprocessing, model development, evaluation, deployment, and real-world applications.
+
+His work includes speech recognition systems, AI chatbots, object detection models, predictive machine learning systems, and NLP-based automation tools.
+
+He is passionate about building production-ready AI systems and AI-powered products that solve real-world problems.
+
+
+========================================
+CAREER OBJECTIVE
+========================================
+
+To become a world-class AI Engineer specializing in building scalable AI systems, intelligent assistants, and LLM-powered applications.
+
+Key interests:
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Speech AI (STT/TTS)
+- Computer Vision
+- Machine Learning Engineering
+- MLOps
+- AI Product Development
+
+
+========================================
+TECHNICAL SKILLS
+========================================
+
+Programming Languages:
+- Python
+- R
+
+Data Science Libraries:
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+Machine Learning:
+- Scikit-learn
+- XGBoost
+- Regression Models
+- Classification Models
+- Feature Engineering
+- Model Evaluation
+
+Deep Learning:
+- TensorFlow
+- PyTorch
+- CNN
+- RNN
+- LSTM
+- Transformer Models
+
+Natural Language Processing:
+- Text Classification
+- Sentiment Analysis
+- Information Extraction
+- Chatbots
+- Speech Recognition
+- Speech-to-Text
+- Text-to-Speech
+- Language Modeling
+
+Computer Vision:
+- OpenCV
+- Object Detection
+- Image Processing
+
+Generative AI:
+- Prompt Engineering
+- LLM Applications
+- AI Assistants
+- Conversational AI
+- RAG Systems
+
+Deployment:
+- FastAPI
+- Streamlit
+
+Version Control:
+- Git
+- GitHub
+
+Tools:
+- VS Code
+- Cursor
+- PyCharm
+- Google Colab
+- Jupyter Notebook
+- Kaggle
+
+
+========================================
+EXPERIENCE
+========================================
+
+AI Engineer Intern — Fluentian
+April 2026 – Present
+
+- Build AI-powered applications
+- Develop Generative AI solutions
+- Design intelligent AI workflows
+- Work on LLM-based systems
+- Collaborate with AI teams on real-world products
+
+
+AI Engineer — CodeCelix
+December 2025 – March 2026
+
+- Developed AI/ML applications
+- Built machine learning pipelines
+- Worked on speech-to-text systems
+- Performed data preprocessing and model training
+- Collaborated in remote AI development teams
+
+
+Data Science Intern — INSA (Information Network Security Agency)
+June 2025 – September 2025
+
+- Developed computer vision models for object detection
+- Built Amharic speech-to-text systems
+- Worked on NLP-based security data analysis
+- Assisted in AI research and applied machine learning
+
+
+Machine Learning Intern — Future Interns
+October 2025 – November 2025
+
+- Built sales forecasting models
+- Developed customer churn prediction systems
+- Created NLP-based chatbots
+- Deployed AI models using Streamlit
+
+
+Football Tracking Data Intern — Addis Ababa University
+December 2025 – Present
+
+- Cleaned and structured sports tracking datasets
+- Worked on spatiotemporal football data
+- Supported sports analytics research
+- Assisted in movement prediction projects
+
+
+========================================
+LEADERSHIP & VOLUNTEERING
+========================================
+
+Blue Nile Machine Intelligence Lab (BNMIL)
+Position: President
+
+- Lead AI/ML initiatives
+- Organize workshops and training sessions
+- Support student AI projects
+- Promote AI research and innovation
+
+
+Aspire Institute
+Position: Technology & AI Domain Leader
+
+- Lead AI-related programs and activities
+- Mentor students in AI and technology
+- Support learning and innovation initiatives
+
+
+Meta Codz BiT
+Position: Event Team Lead
+
+- Lead planning and execution of tech events
+- Coordinate workshops and seminars
+- Manage event teams and operations
+
+
+Gebeya Inc. (Dala Studio)
+Position: Campus Ambassador
+
+- Represent technology programs on campus
+- Promote learning opportunities
+- Engage with student communities
+
+
+Drop of Water
+Position: Event Coordinator
+
+- Organize community events
+- Support coordination and logistics
+- Engage in volunteer initiatives
+
+
+========================================
+PROJECTS
+========================================
+
+Amharic ASR & Summarization System
+- Speech-to-text system for Amharic language
+- Audio transcription and summarization
+
+Voice Agent STT
+- Real-time speech-to-text assistant
+- Used for voice interaction systems
+
+Offline Real-Time STT System
+- Speech recognition without internet
+- Real-time transcription system
+
+AI Message Processor
+- NLP-based message understanding system
+- Automated text analysis and response generation
+
+Intelligent Complaint Analysis
+- Text classification system for customer complaints
+- Sentiment analysis and insights extraction
+
+Credit Card Fraud Detection
+- Machine learning fraud detection system
+- Built using classification models
+
+Heart Disease Prediction
+- Healthcare ML model for disease prediction
+
+Stock Market Trend Prediction
+- Time series forecasting using LSTM models
+
+Object Detection in Security Imagery
+- Computer vision model for object detection
+
+Football Player Tracking Data
+- Structured sports analytics dataset for AI research
+
+
+========================================
+TRAINING & EDUCATION PROGRAMS
+========================================
+
+10 Academy
+- Machine Learning Engineering
+- Data Engineering
+- Financial Analysis
+- MLOps and AI systems
+
+
+Aspire Leaders Program
+- Leadership and social impact training
+
+
+========================================
+CERTIFICATIONS
+========================================
+
+- Artificial Intelligence Fundamentals
+- Machine Learning for Data Science
+- LLMs and Prompt Engineering
+- ChatGPT Engineering
+- Data Analysis Fundamentals
+
+
+========================================
+FAQ
+========================================
+
+Q: Who is Abel?
+A:
+Abel Adamu Shumet is an AI/ML Engineer and Data Scientist specializing in NLP, Computer Vision, Speech AI, and Machine Learning systems.
+
+Q: What does Abel specialize in?
+A:
+He specializes in AI Engineering, NLP, Speech-to-Text systems, Machine Learning, and Generative AI applications.
+
+Q: What projects has Abel built?
+A:
+He has built ASR systems, fraud detection models, chatbot systems, computer vision models, and forecasting systems.
+
+Q: What technologies does Abel use?
+A:
+Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, FastAPI, Streamlit, and LLM tools.
+
+Q: What is Abel currently doing?
+A:
+He is working as an AI Engineer Intern at Fluentian and studying Data Science at Bahir Dar University.
+
+Q: How can I contact Abel?
+A:
+Email: abeladamushumet@gmail.com
+GitHub: github.com/abeladamushumet
+LinkedIn: linkedin.com/in/abeladamushumet
